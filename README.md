@@ -10,7 +10,7 @@ Discover a world of music like never before with Tunneify. Dive into an expansiv
 
 **Unlimited Music, Anytime, Anywhere ! 😃😃😃**
 
-🚀🚀🚀**Join the SoundWave Community **🚀🚀🚀
+🚀🚀🚀 Join the Tuneify Community now! 🚀🚀🚀
 
 <img src="https://github.com/rahulroyrdx001/SoundWave---Music-Web-App/assets/76472099/68902200-33d4-4316-aa22-e79124d78917" width="200" height="200" >
 
