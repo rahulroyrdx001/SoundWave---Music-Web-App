@@ -5,3 +5,19 @@
   position: absolute;
   z-index: -1;
 }
+.mylogo{
+  display: flex;
+  justify-content: right;
+  position: fixed;
+  height: 300px;
+  width: 300px;
+  align-items: flex-end;
+  /*translate: 1100px 60px;*/
+  right: 5%;
+  top: 10%;
+  
+}
+.mytext{
+  position: relative;
+  width: 200px;
+}
