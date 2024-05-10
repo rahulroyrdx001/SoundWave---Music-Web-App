@@ -15,3 +15,5 @@ Discover a world of music like never before with Tunneify. Dive into an expansiv
 <img src="https://github.com/rahulroyrdx001/SoundWave---Music-Web-App/assets/76472099/68902200-33d4-4316-aa22-e79124d78917" width="200" height="200" >
 
 🎵🎸🎵🎸🎵🎸Your Music, Your Way🎵🎸🎵🎸🎵🎸
+
+[Project Diagram ](https://www.figma.com/file/jxRtdORmFjBFZQ7xFurGQj/Spotify-System-Design?type=whiteboard&node-id=0%3A1&t=14bwrMRa0FgvEo65-1)
