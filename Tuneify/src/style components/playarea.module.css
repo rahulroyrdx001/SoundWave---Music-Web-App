@@ -1,0 +1,95 @@
+.mycard{
+    /* background: #121212; */
+    margin-left: 7%;
+    align-items: center;
+    justify-content: center;
+}
+.buttonhover{
+    transition: transform .1s;
+}
+.buttonhover:hover{
+    transform: scale(1.1);
+}
+.playlists {
+    padding: 20px 40px;
+}
+
+.playlists h2 {
+    color: #ffffff;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.playlists .list {
+    display: flex;
+    gap: 20px;
+    overflow: hidden;
+}
+
+.playlists .list .item {
+    min-width: 140px;
+    width: 160px;
+    padding: 15px;
+    background-color: #181818;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all ease 0.4s;
+}
+
+.playlists .list .item:hover {
+    background-color: #252525;
+}
+
+
+
+.playlists .list .item img {
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.playlists .list .item .play {
+    position: relative;
+}
+
+.playlists .list .item .play .playy {
+    position: absolute;
+    right: 10px;
+    top: -60px;
+    padding: 18px;
+    background-color: #1db954;
+    border-radius: 100%;
+    opacity: 0;
+    transition: all ease 0.4s;
+}
+
+.spotify-playlists .list .item:hover .play .playy {
+    opacity: 1;
+    transform: translateY(-10px);
+}
+.musiccard{
+    height: "250px",
+    
+}
+.musiccard:hover{
+    background-color: #252525;
+    
+}
+
+.playb{
+    
+   color: #1db954;
+   position: relative;
+   top: 0px;
+   left: 85px;
+   opacity: 0;
+    transition: all ease 0.4s;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.playb:hover{
+    opacity: 1;
+    transform: translateY(-35px);
+}
